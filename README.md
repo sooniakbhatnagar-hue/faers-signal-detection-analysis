@@ -8,6 +8,7 @@ This project analyzes FAERS adverse event data to identify potential drug safety
 - Pandas
 - Matplotlib
 - Kaggle Notebook
+- Power BI Desktop
 
 ## Analysis Performed
 - Data cleaning
